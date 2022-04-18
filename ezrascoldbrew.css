@@ -1,0 +1,67 @@
+body{
+    background-color: #F7CCAC;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+
+#navbarNavAltMarkup .nav-link{
+    color: white;
+    font-size: 1.3rem;
+}
+
+#navbarNavAltMarkup .nav-link:hover{
+    color: #826F66;
+}
+
+
+#main-navbar .navbar-brand{
+    color: #826F66;
+    font-size: 2rem;
+}
+
+h1{
+    font-size: 50px;
+}
+
+
+#bean-icon{
+    margin: 0 auto;
+    text-align: center;
+}
+
+h2{
+    margin-top: 10px;
+}
+
+
+#paragraph-sections{
+    width: 500px;
+}
+
+iframe{
+    display: block;
+    
+    margin: 0 auto;
+}
+
+@media(max-width: 767px){
+    h1{
+        margin-top: 85px;
+        font-size: 50px;
+    }
+    #main-navbar{
+        border-bottom: 0.5px solid white;
+    }
+}
+
+@media(max-width: 1100px){
+    h1{
+        font-size: 40px;
+    }
+}
+
+@media(max-width: 900px){
+    h1{
+        font-size: 30px;
+    }
+}

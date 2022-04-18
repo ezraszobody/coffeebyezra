@@ -10,12 +10,12 @@ body{
 }
 
 #navbarNavAltMarkup .nav-link:hover{
-    color: #826F66;
+    color: #F7CCAC;
 }
 
 
 #main-navbar .navbar-brand{
-    color: #826F66;
+    color: #F7CCAC;
     font-size: 2rem;
 }
 
@@ -50,6 +50,10 @@ iframe{
   .custom-toggler.navbar-toggler {
     border-color: #826F66;
   } 
+
+  #main-navbar{
+      background-color: #826F66;
+  }
 
 @media(max-width: 767px){
     h1{

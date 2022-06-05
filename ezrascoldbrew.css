@@ -39,6 +39,7 @@ h2{
     margin: auto;
     padding: 50px 0;
     line-height: 2;
+    max-width: 100%;
 }
 
 .section-brown{
